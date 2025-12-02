@@ -1,0 +1,4 @@
+obstacle
+kickboard
+person
+car
